@@ -1,4 +1,4 @@
 [build]
   base = "MaintenanceShield/MaintenanceShield"
-  publish = "dist"  # or "build" depending on what your framework outputs
+  publish = "dist"
   command = "npm run build"

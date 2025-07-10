@@ -1,4 +1,4 @@
 [build]
   base = "MaintenanceShield/MaintenanceShield"
-  publish = "dist"
+  publish = "dist/public"
   command = "npm run build"
